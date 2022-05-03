@@ -1,5 +1,16 @@
 # app
 
+## 1.0.3
+
+### Patch Changes
+
+- Updated dependencies [3c7793d]
+- Updated dependencies [9db0101]
+- Updated dependencies [04170e7]
+  - @roadiehq/backstage-plugin-home-rss@1.0.0
+  - @roadiehq/backstage-plugin-argo-cd@2.1.3
+  - @roadiehq/backstage-plugin-shortcut@1.0.7
+
 ## 1.0.2
 
 ### Patch Changes
